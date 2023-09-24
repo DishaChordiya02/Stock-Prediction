@@ -1,4 +1,4 @@
-# Stock-Prediction
+#Bharat Intern Stock-Prediction
 
 📈 Exploring Stock Price Forecasting with LSTM 🚀
 
